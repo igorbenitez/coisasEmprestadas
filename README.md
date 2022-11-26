@@ -27,3 +27,6 @@ Projeto desenvolvido em PHP, HTML, CSS e MySQL para a matéria de Fundamentos de
         - Usada em desenvolvimento: MySQL Workbench [download](https://dev.mysql.com/downloads/workbench/)
     - Conexão banco de dados
         - Configure o arquivo conexao.php apontando para sua base local 
+        
+### Vídeo explicativo do projeto
+[Clique aqui](https://youtu.be/upI_9ThtEuk)
