@@ -25,6 +25,5 @@ Projeto desenvolvido em PHP, HTML, CSS e MySQL para a matéria de Fundamentos de
         - Usada em desenvolvimento: VisualStudio Code [download](https://code.visualstudio.com/Download)
     - SGBD  (qualquer com suporte a MySQL (MySQL Workbench, dBeaver))
         - Usada em desenvolvimento: MySQL Workbench [download](https://dev.mysql.com/downloads/workbench/)
-        - Senha para o bando de dados: "iguinho97"
     - Conexão banco de dados
         - Configure o arquivo conexao.php apontando para sua base local 
